@@ -3,7 +3,7 @@ package com.ellyon.userdept.entities;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "tb_users")
+@Table(name = "tb_user")
 
 public class User {
     @Id
